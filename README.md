@@ -12,7 +12,7 @@ In Gründung: Konzeptstudio AB [Studio für Marketingkonzepte]
 <3 Abonniert gerne den Medienfeed für Praktiker via der SocialMedia-Profile des RSS-Feeds: 
 
 [Medienfeed auf Bluesky](https://bsky.app/profile/medienfeed.de) | [Medienfeed auf Facebook](https://www.facebook.com/profile.php?id=61582154595399) | [Medienfeed auf Instagram](https://www.instagram.com/medienfeed/) | [Medienfeed auf Mastodon](https://mastodon.social/@medienfeed)   
-| [Medienfeed auf Threads](https://www.threads.com/@medienfeed) | [Medienfeed auf TwitterX](https://x.com/medienfeed)
+| [Medienfeed auf Threads](https://www.threads.com/@medienfeed) | [Medienfeed auf TwitterX](https://twitter.com/medienfeed)
 
 ## Themen
 Ich arbeite an der Schnittstelle von Medienwissenschaft, Kommunikation, Daten und Technik.
