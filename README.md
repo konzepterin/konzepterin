@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hallo bei Ariane Bibel (Die Konzepterin) 🖇️
 
-<!--
-**konzepterin/konzepterin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medien- und Kommunikationswissenschaftlerin, Mannheim.    
+Ich entwickle Kommunikations- und Informationskonzepte.  
+In Gründung: Konzeptstudio AB [Studio für Marketingkonzepte]  
 
-Here are some ideas to get you started:
+## Derzeitige Interessen
+- GEO / AIO (Sichttbarkeitsstrukturen in KI-Ergebnissen)
+- Gründung des [Hyperfutures Lab n.e.V.](https://github.com/hyperfutures)
+- RSS-Projekt [Medienfeed](https://github.com/hyperfutures/Medienfeed) (ehem. Grafikdesignfeed) seit 2023 [Github derzeit im Aufbau]
+   
+<3 Abonnierent gerne den Medienfeed für Praktiker via der SocialMedia-Profile des RSS-Feeds: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Medienfeed auf Bluesky](https://bsky.app/profile/medienfeed.de) | [Medienfeed auf Facebook](https://www.facebook.com/profile.php?id=61582154595399) | [Medienfeed auf Instagram](https://www.instagram.com/medienfeed/) | [Medienfeed auf Mastodon](https://mastodon.social/@medienfeed)   
+| [Medienfeed auf Threads](https://www.threads.com/@medienfeed) | [Medienfeed auf TwitterX](https://x.com/medienfeed)
+
+## Themen
+Ich arbeite an der Schnittstelle von Medienwissenschaft, Kommunikation, Daten und Technik.
+
+Kommunikationsreife, Informationsergonomie, Entscheidungsarchitektur, Semantik, Themenclustering, plattform-agnostische Kommunikation
