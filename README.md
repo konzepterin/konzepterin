@@ -1,8 +1,7 @@
 # Hallo bei Ariane Bibel (Die Konzepterin) 🖇️
 
-Medien- und Kommunikationswissenschaftlerin, Mannheim.    
-Ich entwickle Kommunikations- und Informationskonzepte.  
-In Gründung: Konzeptstudio AB [Studio für Marketingkonzepte]  
+Medien- und Kommunikationswissenschaftlerin, Mannheim. Ich entwickle Kommunikations- und Informationskonzepte.  
+In Gründung: Konzeptstudio AB (Studio für Informations- und Marketingkonzepte)  
 
 ## Derzeitige Interessen
 - GEO / AIO (Sichttbarkeitsstrukturen in KI-Ergebnissen)
